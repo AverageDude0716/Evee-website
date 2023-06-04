@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #4C489E;
+    color: #fff;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+h1
+{
+    color: #fff;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #4C489E;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+button#tryNowButton {
+    background-color: #A559A3;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button#tryNowButton:hover {
+    background-color: #4C489E;
+}
+
+header {
+    background-color: #4C489E;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button#downloadButton {
+    background-color: #4C489E;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button#downloadButton:hover {
+    background-color: #3C378C;
+}
+
